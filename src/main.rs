@@ -1,3 +1,4 @@
+#![windows_subsystem = "windows"]
 // use std::sync::mpsc;
 use tray_item::{IconSource, TrayItem};
 use std::process;
